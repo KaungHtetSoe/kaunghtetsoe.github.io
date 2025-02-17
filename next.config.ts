@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   // 1. Uncomment and update the basePath below with your repo name.
   // 2. Make sure you also update "assetPrefix" if needed.
   basePath: 'https://github.com/kaunghtetsoe/kaunghtetsoe.github.io',
-  assetPrefix: 'https://github.com/kaunghtetsoe/kaunghtetsoe.github.io',
+  assetPrefix: 'https://github.com/kaunghtetsoe/kaunghtetsoe.github.io/',
 };
 
 export default nextConfig;
